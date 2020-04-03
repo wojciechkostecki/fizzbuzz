@@ -3,7 +3,5 @@ public class Test {
         ClassicVersion.fizzBuzzClassic();
 
         StreamVersion.fizzBuzzStream();
-
-        StreamVersion.fizzBuzz();
     }
 }
